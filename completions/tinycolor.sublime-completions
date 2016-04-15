@@ -3,175 +3,175 @@
     "completions": [
         {
             "trigger": "tinycolor(color);\t TinyColor",
-            "contents": "tinycolor(${1:color});$0"
+            "contents": "tinycolor(${1:color})$0"
         },
         {
             "trigger": "getFormat();\t TinyColor",
-            "contents": "getFormat();$0"
+            "contents": "getFormat()$0"
         },
         {
             "trigger": "getOriginalInput();\t TinyColor",
-            "contents": "getOriginalInput();$0"
+            "contents": "getOriginalInput()$0"
         },
         {
             "trigger": "isValid();\t TinyColor",
-            "contents": "isValid();$0"
+            "contents": "isValid()$0"
         },
         {
             "trigger": "getBrightness();\t TinyColor",
-            "contents": "getBrightness();$0"
+            "contents": "getBrightness()$0"
         },
         {
             "trigger": "isLight();\t TinyColor",
-            "contents": "isLight();$0"
+            "contents": "isLight()$0"
         },
         {
             "trigger": "isDark();\t TinyColor",
-            "contents": "isDark();$0"
+            "contents": "isDark()$0"
         },
         {
             "trigger": "getLuminance();\t TinyColor",
-            "contents": "getLuminance();$0"
+            "contents": "getLuminance()$0"
         },
         {
             "trigger": "getAlpha();\t TinyColor",
-            "contents": "getAlpha();$0"
+            "contents": "getAlpha()$0"
         },
         {
             "trigger": "setAlpha(value);\t TinyColor",
-            "contents": "setAlpha(${1:value});$0"
+            "contents": "setAlpha(${1:value})$0"
         },
         {
             "trigger": "toHsv();\t TinyColor",
-            "contents": "toHsv();$0"
+            "contents": "toHsv()$0"
         },
         {
             "trigger": "toHsvString();\t TinyColor",
-            "contents": "toHsvString();$0"
+            "contents": "toHsvString()$0"
         },
         {
             "trigger": "toHsl();\t TinyColor",
-            "contents": "toHsl();$0"
+            "contents": "toHsl()$0"
         },
         {
             "trigger": "toHslString();\t TinyColor",
-            "contents": "toHslString();$0"
+            "contents": "toHslString()$0"
         },
         {
             "trigger": "toHex();\t TinyColor",
-            "contents": "toHex();$0"
+            "contents": "toHex()$0"
         },
         {
             "trigger": "toHexString();\t TinyColor",
-            "contents": "toHexString();$0"
+            "contents": "toHexString()$0"
         },
         {
             "trigger": "toHex8();\t TinyColor",
-            "contents": "toHex8();$0"
+            "contents": "toHex8()$0"
         },
         {
             "trigger": "toHex8String();\t TinyColor",
-            "contents": "toHex8String();$0"
+            "contents": "toHex8String()$0"
         },
         {
             "trigger": "toRgb();\t TinyColor",
-            "contents": "toRgb();$0"
+            "contents": "toRgb()$0"
         },
         {
             "trigger": "toRgbString();\t TinyColor",
-            "contents": "toRgbString();$0"
+            "contents": "toRgbString()$0"
         },
         {
             "trigger": "toPercentageRgb();\t TinyColor",
-            "contents": "toPercentageRgb();$0"
+            "contents": "toPercentageRgb()$0"
         },
         {
             "trigger": "toPercentageRgbString);\t TinyColor",
-            "contents": "toPercentageRgbString();$0"
+            "contents": "toPercentageRgbString()$0"
         },
         {
             "trigger": "toName();\t TinyColor",
-            "contents": "toName();$0"
+            "contents": "toName()$0"
         },
         {
             "trigger": "toFilter();\t TinyColor",
-            "contents": "toFilter();$0"
+            "contents": "toFilter()$0"
         },
         {
             "trigger": "toString();\t TinyColor",
-            "contents": "toString();$0"
+            "contents": "toString()$0"
         },
         {
             "trigger": "lighten(amount);\t TinyColor",
-            "contents": "lighten(${1:amount});$0"
+            "contents": "lighten(${1:amount})$0"
         },
         {
             "trigger": "brighten(amount);\t TinyColor",
-            "contents": "brighten(${1:amount});$0"
+            "contents": "brighten(${1:amount})$0"
         },
         {
             "trigger": "darken(amount);\t TinyColor",
-            "contents": "darken(${1:amount});$0"
+            "contents": "darken(${1:amount})$0"
         },
         {
             "trigger": "desaturate(amount);\t TinyColor",
-            "contents": "desaturate(${1:amount});$0"
+            "contents": "desaturate(${1:amount})$0"
         },
         {
             "trigger": "saturate(amount);\t TinyColor",
-            "contents": "saturate(${1:amount});$0"
+            "contents": "saturate(${1:amount})$0"
         },
         {
             "trigger": "greyscale();\t TinyColor",
-            "contents": "greyscale();$0"
+            "contents": "greyscale()$0"
         },
         {
             "trigger": "spin(amount);\t TinyColor",
-            "contents": "spin(${1:amount});$0"
+            "contents": "spin(${1:amount})$0"
         },
         {
             "trigger": "analogous();\t TinyColor",
-            "contents": "analogous();$0"
+            "contents": "analogous()$0"
         },
         {
             "trigger": "monochromatic();\t TinyColor",
-            "contents": "monochromatic();$0"
+            "contents": "monochromatic()$0"
         },
         {
             "trigger": "splitcomplement();\t TinyColor",
-            "contents": "splitcomplement();$0"
+            "contents": "splitcomplement()$0"
         },
         {
             "trigger": "triad();\t TinyColor",
-            "contents": "triad();$0"
+            "contents": "triad()$0"
         },
         {
             "trigger": "tetrad();\t TinyColor",
-            "contents": "tetrad();$0"
+            "contents": "tetrad()$0"
         },
         {
             "trigger": "complement();\t TinyColor",
-            "contents": "complement();$0"
+            "contents": "complement()$0"
         },
         {
             "trigger": "random();\t TinyColor",
-            "contents": "random();$0"
+            "contents": "random()$0"
         },
         {
             "trigger": "readability(color1, color2);\t TinyColor",
-            "contents": "readability(${1:color1}, ${2:color2});$0"
+            "contents": "readability(${1:color1}, ${2:color2})$0"
         },
         {
             "trigger": "isReadable(color1, color2, {level: AA|AAA, size: small|large});\t TinyColor",
-            "contents": "isReadable(${1:color1}, ${2:color2}, ${3:{level: ${4:AA|AAA}, size: ${5:small|large}}});$0"
+            "contents": "isReadable(${1:color1}, ${2:color2}, ${3:{level: ${4:AA|AAA}, size: ${5:small|large}}})$0"
         },
         {
             "trigger": "mostReadable(basecolor, [foregrounds, backgrounds]);\t TinyColor",
-            "contents": "mostReadable(${1:basecolor}, ${2:[foregrounds, backgrounds]});$0"
+            "contents": "mostReadable(${1:basecolor}, ${2:[foregrounds, backgrounds]})$0"
         },
         {
             "trigger": "clone();\t TinyColor",
-            "contents": "clone();$0"
+            "contents": "clone()$0"
         }
     ]
 }
